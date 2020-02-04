@@ -1,4 +1,4 @@
-# Project 1 Consulting Firm
+# The Dukes of Hazards
 ## Colleen Scott, Jeremy Elkayam
 ## Mission Statement
 Landslides 
